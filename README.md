@@ -69,7 +69,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any inquiries or support, please open an issue in the GitHub repository, or contact the repository owner at [your-email@example.com](mailto:h4ckerk1nd@gmail.com).
+For any inquiries or support, please open an issue in the GitHub repository, or contact the repository owner at [h4ckerk1nd@gmail.com](mailto:h4ckerk1nd@gmail.com).
 
 ---
 
